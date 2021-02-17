@@ -6,7 +6,7 @@ import java.io.Serializable;
  * 快递类
  */
 
-public class Express implements Comparable<Express>{
+public class Express implements Comparable<Express>,Serializable {
     //显示快递公司,static修饰避免重复占用空间
     static String[] expressCompanies = {"圆通快递","顺丰快递","中国邮政","京东物流","申通快递","韵达快递"};
     static public String expressShow = "";
