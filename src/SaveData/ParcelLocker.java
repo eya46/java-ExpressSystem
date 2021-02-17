@@ -5,7 +5,7 @@ import java.util.ArrayList;
 import java.util.HashSet;
 import java.util.Random;
 
-public class ParcelLocker implements Serializable {
+public class ParcelLocker {
     static int parcelLockerX = 10; //¿ìµÝ¹ñ¿í
     static int parcelLockerY = 6; //¿ìµÝ¹ñ¸ß
     static int maxNum = parcelLockerX * parcelLockerY;
