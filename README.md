@@ -33,4 +33,4 @@
 
 ### 存储
 
-- 存储在SaveMain方法调用的文件夹内,名称express.data
+- 存储在不知道的文件夹内...QWQ,名称express.data(明明写的相对路径好不好)
